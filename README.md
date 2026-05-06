@@ -52,6 +52,7 @@ Precision  : 0.9286
 Recall     : 0.4815
 F1 Score   : 0.6341
 ```
+![Results](mobilenet_results.png)
 
 ### 🔍 Detailed Classification Report
 
